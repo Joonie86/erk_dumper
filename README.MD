@@ -3,6 +3,9 @@ FLATZ's eid root key dumper v1.0
 Supported CFW
 
 4.80 [CEX]
+4.80 [DEX]
+4.81 [CEX]
+4.81 [DEX]
 
 
 [Files need edited / ported ]
